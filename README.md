@@ -1,4 +1,4 @@
-# 🚖 Uber Analysis
+# Uber Analysis
 
 ## 📌 Project Overview
 This project provides a data-driven deep dive into Uber's operational performance. It features a sophisticated, user-centric design with a custom-built **Sidebar Navigation Menu** to streamline the analysis of revenue, fleet categories, and geographical trends. 
@@ -13,6 +13,7 @@ The report is organized into six core analytical modules, accessible via the int
 ### 1. 🏠 Overview
 * **High-Level KPIs:** Instant view of total completed bookings,total lost bookings, total revenue, lost percentage, total distance.
 * **Trend Overlays:** Time-series analysis of demand fluctuations.
+https://raw.githubusercontent.com/loayayman/Uber-Analysis/refs/heads/main/Screenshots/2.png
 
 ### 2. 💰 Revenue
 * **Earnings Tracking:** Breakdown of total bookings, revenue for every vehicle, and the most common payment method.
@@ -56,3 +57,4 @@ The report is organized into six core analytical modules, accessible via the int
 **Loay Ayman**
 *Data Analyst | BI Specialist*
 *https://www.linkedin.com/in/loayaymaan/ | [[Portfolio](#)](https://loayayman.vercel.app/)
+
