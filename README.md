@@ -68,5 +68,3 @@ The report is organized into six core analytical modules, accessible via the int
 
 
 
-# Uber-Analysis
-
